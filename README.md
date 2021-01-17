@@ -1,7 +1,7 @@
 # School_District_Analysis
 
 ## Overview
-The purpose of this analysis was to analyze data on the PyCity school district. In our first analysis of the data, we created a number of Data Frames to get information about the schools in the district, their students and test scores. 
+The purpose of this analysis was to analyze data on the PyCity school district. In our first analysis of the data, we created a number of Data Frames to get information about the schools in the district, their students and test scores. To perform this analysis, we used Jupyter Notebook to run Python script using pandas and numpy. 
 
 After our initial analysis was completed, we received news of possible academic dishonesty for Thomas High School (THS) 9th grade students' math and reading scores. This meant these scores were potentially inaccurate and could be contaminating our data set. 
 
