@@ -37,9 +37,15 @@ As you can see, the % Passing Math, % Passing Reading and Overall Passing % all 
 Replacing these contaminated values takes THS from being one of the lowest performing  schools to one of the highest perfroming schools. This is because the % Passing Math, % Passing Reading and Overall Passing % all increased significantly after the values were removed. 
 
 ### Math and Reading Scores by Grade
-- The Data Frames which showed reading and math scores per grade were mostly unchanged after the grades were taken out. The only changes was that the math and reading scores for 9th graders at THS were changed to 'nan'. The Data Frames below show this change: 
+- The Data Frames which showed reading and math scores per grade were mostly unchanged after the grades were taken out. The only changes was that the math and reading scores for 9th graders at THS were changed to 'nan'. The Data Frames below show this change. The first image shows the average math scores per grade: 
+
 ![Challenge Math Scores by Grade](/Resources/challenge_df_ss/c_math_scores_per_grade.png)
+
+The second image shows the average reading scores per grade: 
+
 ![Challenge Reading Scores by Grade](/Resources/challenge_df_ss/c_reading_scores_per_grade.png)
+
+As you can see, the values for THS 9th graders for both Data Frames has been changed to 'nan'. 
 
 ### Scores by School Spending
 - The following Data Frames show the average scores for categories of per-student spending ranges. This Data Frame shows the averages before the grades were removed: 
