@@ -72,4 +72,4 @@ There were a few major changes in our Data Frames after the reading and math sco
 1. The percent of THS students passing math jumped from 66.91% to 93.19%. 
 2. The percent of THS students passing reading changed from 69.66% to 97.02%. 
 3. The percent of THS students passing both math and reading went from 65.08% to 90.63%. 
-4. The overall passing percentage for all schools dropped from 65.2% to 64.9%. Although these may seem like a small change, a 0.3% difference in such a large sample size is not statistically insignificant. 
+4. The values for THS 9th grade student scores in the Math and Reading Scores by Grade Data Frames was changed to 'nan'. 
